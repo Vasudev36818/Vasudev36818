@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, Full-Stack Development , data science, and machine learning..
 - 🌱 I’m currently learning MongoDb,python libraries and Web Development.
 - 💞️ I’m looking to collaborate on open-source projects related to Web and Software Development,Data Science and machine Learning .
-- 📫 How to reach me Feel free to email me at [vasudevpinninti36818@gmail.com] or connect on [LinkedIn](https://www.linkedin.com/in/pinninti-vasudeva-rao/).
+- 📫 How to reach me::  Feel free to email me at [vasudevpinninti36818@gmail.com] or connect on [LinkedIn](https://www.linkedin.com/in/pinninti-vasudeva-rao/).
 
   
 <!---
